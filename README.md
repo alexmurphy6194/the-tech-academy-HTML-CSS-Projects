@@ -1,2 +1,2 @@
-# the-tech-academy-large-projects
+# the-tech-academy-HTML-CSS-Projects
 large projects
